@@ -1,0 +1,82 @@
+[{
+    "name": "OPPO F21s Pro 5G",
+    "price": 245.67,
+    "description": "OPPO is poerfull 6g",
+    
+    "images": [
+        {
+            "image": "/images/products/1.jpg"
+        }
+    ],
+    "categorty": "mobile phone",
+    "seller": "Amazon",
+    "stock": 1
+},
+{
+    "name": "O F21s Pro 5G",
+    "price": 205.67,
+    "description": "OPPO is poerfull 6g",
+   
+    "images": [
+        {
+            "image": "/images/products/3.jpg"
+        },
+        {
+            "image": "/images/products/4.jpg"
+        }
+    ],
+    "categorty": "mobile phone",
+    "seller": "Amazon",
+    "stock": 2
+},
+{
+    "name": "PPO F21s Pro 5G",
+    "price": 245.67,
+    "description": "OPPO is poerfull 6g",
+    
+    "images": [
+        {
+            "image": "/images/products/5.jpg"
+        },
+        {
+            "image": "/images/products/6.jpg"
+        }
+    ],
+    "categorty": "mobile phone",
+    "seller": "Amazon",
+    "stock": 3
+},
+{
+    "name": "vivo F21s Pro 5G",
+    "price": 245.67,
+    "description": "OPPO is poerfull 6g",
+
+    "images": [
+        {
+            "image": "/images/products/7.jpg"
+        },
+        {
+            "image": "/images/products/2.jpg"
+        }
+    ],
+    "categorty": "mobile phone",
+    "seller": "Amazon",
+    "stock": 4
+},
+{
+    "name": "sam F21s Pro 5G",
+    "price": 245.67,
+    "description": "OPPO is poerfull 6g",
+    
+    "images": [
+        {
+            "image": "/images/products/1.jpg"
+        },
+        {
+            "image": "/images/products/2.jpg"
+        }
+    ],
+    "categorty": "phone",
+    "seller": "Amazon",
+    "stock": 5
+}]
